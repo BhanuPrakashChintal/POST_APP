@@ -79,8 +79,8 @@ lib/
 
 
 ## Screenshots
+![Screenshot](https://github.com/user-attachments/assets/4d5b688d-6882-40dd-8aa0-f8db104f8136)
 
-![App Screenshot](master/screenshot.png)  
 _Screenshot showing the app with fetched posts._
 
 ## License
