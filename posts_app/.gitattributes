@@ -1,0 +1,23 @@
+# Flutter
+*.dart linguist-language=Dart
+
+# Ignore generated files
+build/ linguist-ignore=true
+ios/Flutter/Flutter.framework linguist-ignore=true
+ios/Flutter/Flutter.podspec linguist-ignore=true
+ios/Pods/ linguist-ignore=true
+android/.gradle/ linguist-ignore=true
+android/app/build/ linguist-ignore=true
+android/gradle/ linguist-ignore=true
+android/gradlew* linguist-ignore=true
+
+# Ignore other file types if necessary
+*.lock linguist-ignore=true
+*.log linguist-ignore=true
+*.tmp linguist-ignore=true
+*.png linguist-ignore=true
+*.jpg linguist-ignore=true
+*.jpeg linguist-ignore=true
+*.gif linguist-ignore=true
+*.zip linguist-ignore=true
+*.apk linguist-ignore=true
