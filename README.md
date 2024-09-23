@@ -80,7 +80,7 @@ lib/
 
 ## Screenshots
 
-![App Screenshot](POST_APP/screenshot.png)  
+![App Screenshot](master/screenshot.png)  
 _Screenshot showing the app with fetched posts._
 
 ## License
