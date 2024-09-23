@@ -24,7 +24,7 @@ git clone https://github.com/yourusername/posts-app.git
 
 ### 2. Navigate to the project directory
 ```bash
-cd posts-app
+cd posts_app
 ```
 
 ### 3. Install dependencies
