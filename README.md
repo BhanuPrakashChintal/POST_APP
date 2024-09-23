@@ -76,20 +76,7 @@ lib/
 - **`setState()`**: Manages state to update the UI when new data is fetched.
 - **Pagination**: The app loads more posts when the user scrolls to the end of the list.
 
-## Removing the Floating Action Button
 
-Initially, there was a floating action button in the bottom right corner of the app. This button was removed by deleting the `floatingActionButton` property from the `Scaffold` widget.
-
-### How to Remove the Button
-
-You can remove the button by deleting the following code from `main.dart`:
-```dart
-floatingActionButton: FloatingActionButton(
-  onPressed: _incrementCounter,
-  tooltip: 'Increment',
-  child: const Icon(Icons.add),
-),
-```
 
 ## Screenshots
 
